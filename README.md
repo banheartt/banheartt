@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/banheart)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_banheart)
 
-![banheartt GitHub stats](https://github-readme-stats.vercel.app/api?username=banheartt&show_icons=true&theme=dracula)
+![banheartt GitHub stats](https://github-readme-stats.vercel.app/api?username=banheartt&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia a dia
 
